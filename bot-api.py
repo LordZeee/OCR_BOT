@@ -3,7 +3,7 @@ import io
 from OCR import *
 
 
-bot = telebot.TeleBot('962674884:AAGPIuJ6JNAC-35wGp7fQnLr_2wUKTet0xk')
+bot = telebot.TeleBot(<>)
 
 
 @bot.message_handler(commands=['start', 'help'])
